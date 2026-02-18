@@ -1,4 +1,3 @@
-# phyton_bpm_rpa_task
 # Login Validation Automation (BPM + RPA)
 Bu layihə **BPM və RPA inteqrasiyasını** sadə və real nümunə üzərində göstərir.
 - Excel-dən istifadəçi məlumatları oxunur
